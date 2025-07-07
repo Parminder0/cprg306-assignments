@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1h2GJKH12gkHG31h1H",
+    "name": "milk, 4 L 🥛",
+    "quantity": 1,
+    "category": "dairy"
+  },
+  {
+    "id": "9k2JLK23lkjsdf923",
+    "name": "chicken breast, 1 kg 🍗",
+    "quantity": 1,
+    "category": "meat"
+  },
+  {
+    "id": "0adfkjas0dfjw9023",
+    "name": "apples, 6 pcs 🍎",
+    "quantity": 6,
+    "category": "produce"
+  }
+]
