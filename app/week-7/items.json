@@ -1,0 +1,20 @@
+[
+  {
+    "id": "a1",
+    "name": "Apples",
+    "quantity": 5,
+    "category": "produce"
+  },
+  {
+    "id": "b2",
+    "name": "Milk",
+    "quantity": 2,
+    "category": "dairy"
+  },
+  {
+    "id": "c3",
+    "name": "Bread",
+    "quantity": 1,
+    "category": "bakery"
+  }
+]
