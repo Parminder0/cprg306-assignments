@@ -47,6 +47,13 @@ export default function Page() {
             <span className="text-blue-500 hover:underline">Week 8</span>
           </Link>
         </li>
+        <a
+  href="/week-9"
+  className="inline-block mt-4 px-5 py-2 bg-blue-600 text-white font-semibold rounded hover:bg-blue-700 transition"
+>
+  Go to Week 9 Assignment
+</a>
+
       </ul>
     </main>
   );

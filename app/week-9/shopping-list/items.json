@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Apples",
+    "quantity": 4,
+    "category": "produce"
+  },
+  {
+    "id": "2",
+    "name": "Milk",
+    "quantity": 1,
+    "category": "dairy"
+  }
+]
